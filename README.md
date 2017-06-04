@@ -12,4 +12,4 @@ All included in the iPython notebook.
 
 * Open the terminal. If you're using anaconda just install Flask by typing ```$conda install flask``` or ```$pip install flask```. Then run the notebook ```$jupyter notebook``` in terminal in the main directory. All the instructions are in there.
 
-* Two attached files. One is a step-by-step notebook, and the other is the Flask app that is going to serve the machine learning model to get predictions back.
+* Two attached files. One is a step-by-step [notebook](https://github.com/a-djebali/flask-machine-learning-resful/blob/master/Serve%20a%20machine%20learning%20model%20using%20Flask%20.ipynb), and the other is the Flask app that is going to serve the machine learning model to get predictions back.
